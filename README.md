@@ -1,4 +1,4 @@
-# Study
+# mini project & alone Study 
 ## 파이썬 관련 40개의 미니 프로젝트.
 1. random과 socket
 2. computer의 외부 내부 IP 확인
